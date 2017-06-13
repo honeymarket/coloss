@@ -50,7 +50,7 @@
       var mkFeature = mk.toGeoJSON();
       if (mkFeature.properties && mkFeature.properties.MNIMI) {
         mk.bindPopup('<b>' + mkFeature.properties.MNIMI + '</b>');
-        mk.bindTooltip(mkFeature.properties.MNIMI).openTooltip();
+        mk.bindTooltip(mkFeature.properties.MNIMI).openTooltip({direction: center});
       }
     }
 
