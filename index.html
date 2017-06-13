@@ -49,7 +49,7 @@
     function eachLayer(mk) {
       var mkFeature = mk.toGeoJSON();
       if (mkFeature.properties && mkFeature.properties.MNIMI) {
-        ay.bindPopup('<b>' + ayFeature.properties.MNIMI + '</b>);
+        mk.bindPopup('<b>' + mkFeature.properties.MNIMI + '</b>');
       }
     }
 
