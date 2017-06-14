@@ -1,6 +1,6 @@
 # COLOSS data
 
-Currently, [COLOSS](http://coloss.org/) data is not easily available. Beekeepers who contribute to COLOSS questionnaires deserve better outcome. This project aims to improve that situation.
+Currently, [COLOSS](http://coloss.org/) data is not easily available. This project aims to improve that situation - beekeepers who contribute to COLOSS questionnaires deserve better outcome.
 
 ## Data
 
