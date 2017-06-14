@@ -6,6 +6,7 @@ Currently, [COLOSS](http://coloss.org/) data is not easily available. This proje
 
 - [2015 - 2016](https://github.com/honeymarket/coloss/blob/master/data/coloss-2015-2016.csv)
 - [2014 - 2015](https://github.com/honeymarket/coloss/blob/master/data/coloss-2014-2015.csv) 
+- Data structure improvements: https://github.com/honeymarket/coloss/issues/3
 
 ## Countries
 
