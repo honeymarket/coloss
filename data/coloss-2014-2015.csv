@@ -1,32 +1,32 @@
-Country,rate* %,Lower limit,Upper limit,No. of colonies going into winter,No. of dead colonies,No. of colonies lost due to queen problems,No. of beekeepers used in calculations,Estimated no. of beekeepers 2014
-Algeria,12.04,9.99,14.44,5981,720,80,64,18500
-Austria,24.68,23.25,26.17,22882,5647,854,1259,25277
-Belgium,36.44,29.34,44.19,472,172,21,74,
-Croatia,9.8,8.69,11.04,18995,1862,222,315,
-Czech Republic,16.89,15.44,18.45,19749,3336,504,973,57171
-Denmark,10.18,9.29,11.13,13677,1392,620,1198,
-Egypt,21.76,14.79,30.84,6493,1413,776,28,16000
-England,11.48,9.84,13.35,2326,267,154,371,
-Estonia,16.74,12.36,22.28,3107,520,95,83,5934
-Finland,8.72,7.52,10.1,9631,840,342,333,2500
-France,12.94,11.42,14.62,32394,4191,1555,443,41836
-Germany,20.67,20.21,21.14,131151,27114,1182,9978,110000
-Ireland,12.37,10.71,14.26,3556,440,236,249,3100
-Israel,5.19,3.88,6.9,29552,1534,1645,58,500
-Italy,17.39,14.3,20.99,4967,864,246,119,55000
-Latvia,11.36,10.16,12.67,18930,2150,578,510,4300
-Lithuania,5.28,3.64,7.62,1457,77,41,25,9000
-Macedonia,5.43,4.53,6.5,13847,752,374,190,3000
-N.Ireland,13.16,9.32,18.27,509,67,32,88,
-Netherlands,13.65,12.67,14.68,14650,1999,508,1549,7000
-Norway,4.66,3.84,5.65,11878,554,391,489,3500
-Poland,12.66,11.35,14.09,26937,3410,1089,717,57550
-Russia,16.79,12.35,22.41,3562,598,128,93,300000
-Scotland,8.37,6.03,11.5,872,73,41,159,1400
-Slovakia,7.75,5.96,10.01,5112,396,84,232,16500
-Slovenia,9.33,6.87,12.55,4503,420,121,163,
-Spain,13.19,10.99,15.75,11713,1545,159,84,24866
-Sweden,10.39,9.65,11.18,21214,2204,655,1780,13000
-Switzerland,14.39,13.37,15.48,18126,2609,1029,1281,17000
-Ukraine,13.42,11.35,15.79,10867,1458,171,303,
-Wales,6.47,3.48,11.75,139,9,8,26,
+Country,rate* %,Lower limit,Upper limit,No. of colonies going into winter,No. of dead colonies,No. of colonies lost due to queen problems,No. of beekeepers used in calculations,Estimated no. of beekeepers 2014,Contact persons,Email,Institute/organisation
+Algeria,12.04,9.99,14.44,5981,720,80,64,18500,Noureddine Adjlane,adjlanenoureddine@hotmail.com,"Université de Boumerde, départment de Biologie, University of Boumerdes, Deprtment of Biology, Algeria"
+Austria,24.68,23.25,26.17,22882,5647,854,1259,25277,Robert Brodschneider,robert.brodschneider@uni-graz.at,"Department of Zoology, University of Graz"
+Belgium,36.44,29.34,44.19,472,172,21,74,,Patrick Goorix,patrick.goorix@ugent.be,"Honeybee Valley, University of Ghent"
+Croatia,9.8,8.69,11.04,18995,1862,222,315,,Maja Drazic,mdrazic@hpa.hr,"Faculty of Agriculture, University of Zagreb"
+Czech Republic,16.89,15.44,18.45,19749,3336,504,973,57171,Jiri Danihlik,j.danihlik@gmail.com,"Palacky University in Olomouc, Czech Beekeepers Association"
+Denmark,10.18,9.29,11.13,13677,1392,620,1198,,Ole Kilpinen,olek@biavl.dk,Danish Beekeepers Association
+Egypt,21.76,14.79,30.84,6493,1413,776,28,16000,yasser Ibrahim,yasseryehia@staff.cu.edu.eg,"Faculty of Agriculture, Cairo University"
+England,11.48,9.84,13.35,2326,267,154,371,,Ben Jones,benjamin.jones@fera.co.uk,Fera Science Ltd
+Estonia,16.74,12.36,22.28,3107,520,95,83,5934,Aivar Raudmets,mesindusprogramm@gmail.com,Estonian Beekeepers Association
+Finland,8.72,7.52,10.1,9631,840,342,333,2500,Ari Seppälä,ari.seppala@hunaja.net,Finnish Beekeepers Association
+France,12.94,11.42,14.62,32394,4191,1555,443,41836,Julien Vallon,julien.vallon@itsap.asso.fr,ITSAP-Institut de l'abeille. French national institute for beekeeping extension
+Germany,20.67,20.21,21.14,131151,27114,1182,9978,110000,Christoph Otten,Christoph.Otten@dlr.rlp.de,"DLR Fachzentrum für Bienen und Imkerei, Mayen"
+Ireland,12.37,10.71,14.26,3556,440,236,249,3100,Mary Frances Coffey,Mary.Frances.Coffey@ul.ie,University of Limerick
+Israel,5.19,3.88,6.9,29552,1534,1645,58,500,Victoria Soroker,sorokerv@agri.gov.il,"Agricultural Reserch Organisation, The Volcani Center"
+Italy,17.39,14.3,20.99,4967,864,246,119,55000,Franco Mutinelli,fmutinelli@izsvenezie.it,Istituto Zooprofilattico Sperimentale delle Venezie
+Latvia,11.36,10.16,12.67,18930,2150,578,510,4300,Valters Brusbardis,valters@strops.lv,Latvian Beekeepers Association
+Lithuania,5.28,3.64,7.62,1457,77,41,25,9000,Justinas Kretavičius,jkretas@gmail.com,"Vilnius University, Institute of Biochemistry"
+Macedonia,5.43,4.53,6.5,13847,752,374,190,3000,Miroljub Golubovski,mgolubovski@yahoo.com,Macedonian association for conservation of Macedonian native honey bee
+N.Ireland,13.16,9.32,18.27,509,67,32,88,,Sam Clawson,Sam.Clawson@afbini.gov.uk,Agri-Food and Biosciences Institute (AFBI)
+Netherlands,13.65,12.67,14.68,14650,1999,508,1549,7000,Romée van der Zee,romee.van.der.zee@beemonitoring.org,Netherlands Centre for Bee Resarch(NCB)
+Norway,4.66,3.84,5.65,11878,554,391,489,3500,Flemming Vejsnæs,fv@norbi.no,Norwegian Beekeepers Association
+Poland,12.66,11.35,14.09,26937,3410,1089,717,57550,Grazyna Topolska,grazyna_topolska@sggw.pl,Warsaw University of Life Sciences
+Russia,16.79,12.35,22.41,3562,598,128,93,300000,Alexey Nikolenko,a-nikolenko@yandex.ru,"Institute of Biochemistry and Genetics, Ufa Science Centre RAS"
+Scotland,8.37,6.03,11.5,872,73,41,159,1400,Alison Gray,a.j.gray@strath.ac.uk,"Dept. of Mathematics and Statistics, University of Strathclyde"
+Slovakia,7.75,5.96,10.01,5112,396,84,232,16500,Robert Chlebo,robert.chlebo@uniag.sk,Slovak University of Agriculture
+Slovenia,9.33,6.87,12.55,4503,420,121,163,,Aleš Gregorc,Ales.Gregorc@kis.si,Agricultural Institute of Slovenia
+Spain,13.19,10.99,15.75,11713,1545,159,84,24866,Raquel Martín-Hernández,rmhernandez@jccm.es,"Centro Apícola Marchamalo, Spain"
+Sweden,10.39,9.65,11.18,21214,2204,655,1780,13000,Preben Kristiansen,preben.kristiansen@biodlarna.se,Swedish Beekeepers Association
+Switzerland,14.39,13.37,15.48,18126,2609,1029,1281,17000,Jean-Daniel Charrière,jean-daniel.charriere@agroscope.admin.ch,"Agroscope, Swiss Bee Research Center"
+Ukraine,13.42,11.35,15.79,10867,1458,171,303,,Mariia Fedoriak,m.m.fedoriak@gmail.com,Yuriy Fedkovych Chernivtsi National University
+Wales,6.47,3.48,11.75,139,9,8,26,,Ben Jones,benjamin.jones@fera.co.uk,Fera Science Ltd
