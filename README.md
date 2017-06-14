@@ -1,6 +1,6 @@
 # COLOSS statistics
 
-Currently, [COLOSS](http://coloss.org/) statistics is not easily available. This project aims to improve that.
+Currently, [COLOSS](http://coloss.org/) statistics is not easily available. This project aims to improve that situation.
 
 ## Countries
 
